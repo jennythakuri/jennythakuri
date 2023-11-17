@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--https://github.com/jennythakuri/jennythakuri/blob/main/img.gif-->
 
-![logo]()
+![logo](https://github.com/jennythakuri/jennythakuri/blob/main/1700235542921.png)
 <!--https://github.com/jennythakuri/jennythakuri/blob/main/img.gif)-->
 
 <h1 align="center">Hi 👋, I'm JANAKI SINGH THAKURII</h1>

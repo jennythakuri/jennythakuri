@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO PROGRAMMER👋
 <!--https://github.com/jennythakuri/jennythakuri/blob/main/img.gif-->
 
 ![logo](https://github.com/jennythakuri/jennythakuri/blob/main/man-walking-pause-rafFn-done.gif)
@@ -27,11 +27,11 @@ https://github.com/jennythakuri/jennythakuri/blob/main/img.gif)-->
 
 - 🌱 I’m currently learning **React Js ,Advance JS**
 
-- 💬 Ask me about **JAVASCRIPT,PHP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON,PHP**
 
 - 📫 How to reach me **hdon9373@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM INQUISITIVE**
+- ⚡ Fun fact **I THINK I AM INQUISITIVE !! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

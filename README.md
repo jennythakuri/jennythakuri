@@ -1,8 +1,9 @@
 ### Hi there 👋
 <!--https://github.com/jennythakuri/jennythakuri/blob/main/img.gif-->
 
-![logo](https://github.com/jennythakuri/jennythakuri/blob/main/1700235542921.png)
-<!--https://github.com/jennythakuri/jennythakuri/blob/main/img.gif)-->
+![logo](https://github.com/jennythakuri/jennythakuri/blob/main/man-walking-pause-rafFn-done.gif)
+<!--(https://github.com/jennythakuri/jennythakuri/blob/main/1700235542921.png)
+https://github.com/jennythakuri/jennythakuri/blob/main/img.gif)-->
 
 <h1 align="center">Hi 👋, I'm JANAKI SINGH THAKURII</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>

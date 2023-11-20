@@ -1,12 +1,12 @@
-### HELLO PROGRAMMER👋
+### HELLO !!  PROGRAMMER👋
 <!--https://github.com/jennythakuri/jennythakuri/blob/main/img.gif-->
 
 ![logo](https://github.com/jennythakuri/jennythakuri/blob/main/man-walking-pause-rafFn-done.gif)
 <!--(https://github.com/jennythakuri/jennythakuri/blob/main/1700235542921.png)
 https://github.com/jennythakuri/jennythakuri/blob/main/img.gif)-->
 
-<h1 align="center">Hi 👋, I'm JANAKI SINGH THAKURII</h1>
-<h3 align="center">A passionate Software Engineer from Nepal</h3>
+<h1 align="center">Hey 👋, MYSELF JANAKI SINGH THAKURII</h1>
+<h3 align="center">WELCOME TO MY GITHUB PROFILE  </h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/jennythakuri/jennythakuri/blob/main/img.gif">
 
@@ -22,7 +22,7 @@ https://github.com/jennythakuri/jennythakuri/blob/main/img.gif)-->
             src="https://img.shields.io/twitter/follow/jennythakuri?logo=twitter&style=for-the-badge"
             alt="jennythakuri" /></a> </p>
 
-- 🔭 I’m currently Studing on Computer Science and Information TechnologyT
+- 🔭 I’m currently Studing on Computer Science and Information Technology
 [https://github.com/jennythakuri](https://github.com/jennythakuri)
 
 - 🌱 I’m currently learning **React Js ,Advance JS**

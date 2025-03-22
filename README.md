@@ -25,9 +25,9 @@ https://github.com/jennythakuri/jennythakuri/blob/main/img.gif)-->
 - 🔭 I’m currently Studing on Computer Science and Information Technology
 [https://github.com/jennythakuri](https://github.com/jennythakuri)
 
-- 🌱 I’m currently learning **React Js ,Advance JS**
+- 🌱 I’m currently learning **PYTHON | DATA SCIENCE | STATISTICS MATH| **
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON,PHP**
+- 💬 Ask me about **FRONT-END|PYTHON|JAVA|PHP**
 
 - 📫 How to reach me **hdon9373@gmail.com**
 
